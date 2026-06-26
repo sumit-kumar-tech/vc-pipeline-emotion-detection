@@ -3,4 +3,4 @@
 ['remote "myremote"']
     url = /Users/sumitkumar/Desktop/data
 ['remote "dvcstore"']
-    url = s3://sumitcampusxbucket
+    url = s3://sumitcampusxbucket-284064533472-us-east-1-an
