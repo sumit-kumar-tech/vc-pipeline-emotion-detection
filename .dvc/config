@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = dvcstore
 ['remote "myremote"']
     url = /Users/sumitkumar/Desktop/data
+['remote "dvcstore"']
+    url = s3://sumitcampusxbucket
